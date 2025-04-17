@@ -1,5 +1,7 @@
 # 👋 Welcome to My fastai Blog
-Hi there! I'm a **Mechatronic Engineering student at UQ**, currently completing the **ELEC4603-Image Processing and Computer Vision**.
+Hi there! I'm a **Mechatronic Engineering student at UQ**, currently completing **ELEC4603-Image Processing and Computer Vision**.
+
+![Image of fast.ai logo](C:\Users\Tom Monckton\Downloads\download.jfif)
 
 This blog documents my journey through the **fast.ai course**, including what I’ve learned, challenges I’ve faced, and how I’ve solved them. It also gave me a chance to dive into GitHub Pages and Markdown for the first time.
 
