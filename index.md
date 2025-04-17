@@ -1,7 +1,22 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# 👋 Welcome to My fastai Blog
+Hi there! I'm a **Mechatronic Engineering student at UQ**, currently completing the **ELEC4603-Image Processing and Computer Vision**.
+
+This blog documents my journey through the **fast.ai course**, including what I’ve learned, challenges I’ve faced, and how I’ve solved them. It also gave me a chance to dive into GitHub Pages and Markdown for the first time.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## 🔍 What You’ll Find Here
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+- Weekly reflections on the fastai course  
+- Solutions to tricky problems I’ve faced  
+- Tips for using GitHub Pages and Markdown  
+- Code snippets and screenshots of my projects  
+
+## 🔗 Useful Links
+
+- [fast.ai course](https://www.fast.ai)
+- [My GitHub Repository](https://github.com/TOm-Monckton/TOm-Monckton.github.io)
+
+---
+
+Posts will appear below this page as I update the blog!
